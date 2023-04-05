@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'SwiftUI-Notes-d947b6f12be54cb7b0a29cfcbf33729e',
+  rootNotionPageId: 'Vikill-s-Blog-c35e07b7785547a4bac13ac54c091cf4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
