@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Vikill的技术博客',
-  domain: 'szufrank.top',
+  domain: 'awesome-nextjs-notion-blog-nvpupigap-vikill33.vercel.app',
   author: 'Vikill',
 
   // open graph metadata (optional)
@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: null,
-  github: 'frankcbliu',
+  github: 'VIkill33',
   // wechatPublicName: 'VIkill33',
   // wechatPublicURL: 'https://mp.weixin.qq.com/s?__biz=MzkxMzIyOTI1Mg==&mid=2247486027&idx=1&sn=2840f0b8cfdc982b9095dd18ec9892e5',
   // notionPublic: 'https://frankcbliu.notion.site/6a76fdd9ec6d4ae2855aa790d620eec4',
@@ -34,7 +34,7 @@ module.exports = {
   imageCDNHost: null,
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: 'frankcbliu/awesome-nextjs-notion-blog',
+  utterancesGitHubRepo: 'VIkill33/awesome-nextjs-notion-blog',
   utterancesGitHubLabel: '博客评论',
 
   // whether or not to enable support for LQIP preview images (optional)
