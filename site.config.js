@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Vikill的技术博客',
-  domain: 'awesome-nextjs-notion-blog-nvpupigap-vikill33.vercel.app',
+  domain: 'vikill.top',
   author: 'Vikill',
 
   // open graph metadata (optional)
