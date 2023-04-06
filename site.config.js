@@ -12,9 +12,9 @@ module.exports = {
   author: 'Vikill',
 
   // open graph metadata (optional)
-  description: 'Vikill-独立开发者，目标是成为全栈开发',
+  description: 'Thinking, coding, writing',
   socialImageTitle: 'Vikill',
-  socialImageSubtitle: 'Hello World! 👋',
+  socialImageSubtitle: 'Hello World! 🚀',
 
   // social usernames (optional)
   twitter: null,
