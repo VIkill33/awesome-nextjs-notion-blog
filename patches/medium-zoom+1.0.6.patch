@@ -42,9 +42,9 @@ index 975a617..5c695c4 100644
 +      // 缩放比例修改为屏幕宽度的84%，高度的94%
 +
 +
-+      var scaleX = 0.84 * viewportWidth / width;
++      var scaleX = 0.8 * viewportWidth / width;
 +      // const scaleX = Math.min(naturalWidth, viewportWidth) / width
-+      var scaleY = 0.94 * viewportHeight / height;
++      var scaleY = 0.9 * viewportHeight / height;
 +      // const scaleY = Math.min(naturalHeight, viewportHeight) / height
        var scale = Math.min(scaleX, scaleY);
        var translateX = (-left + (viewportWidth - width) / 2 + zoomOptions.margin + container.left) / scale;
@@ -73,8 +73,8 @@ index 41132e8..0530030 100644
          var _zoomTarget$getBoundi = zoomTarget.getBoundingClientRect(), top = _zoomTarget$getBoundi.top, left = _zoomTarget$getBoundi.left, width = _zoomTarget$getBoundi.width, height = _zoomTarget$getBoundi.height;
 -        var scaleX = Math.min(naturalWidth, viewportWidth) / width;
 -        var scaleY = Math.min(naturalHeight, viewportHeight) / height;
-+        var scaleX = .84 * viewportWidth / width;
-+        var scaleY = .94 * viewportHeight / height;
++        var scaleX = .8 * viewportWidth / width;
++        var scaleY = .9 * viewportHeight / height;
          var scale = Math.min(scaleX, scaleY);
          var translateX = (-left + (viewportWidth - width) / 2 + zoomOptions.margin + container.left) / scale;
          var translateY = (-top + (viewportHeight - height) / 2 + zoomOptions.margin + container.top) / scale;
